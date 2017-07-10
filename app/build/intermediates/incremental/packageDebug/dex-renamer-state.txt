@@ -1,0 +1,7 @@
+#Sat Oct 01 15:28:26 IST 2016
+base.0=/home/ankit/AndroidStudioProjects/Enigma/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0e7e4e535afd3cbb0442ef8a0995981855821f0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ankit/AndroidStudioProjects/Enigma/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d7793196d1aaecd92cc21ab4da94ed6cf4d45849/classes.dex
+base.1=/home/ankit/AndroidStudioProjects/Enigma/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d7793196d1aaecd92cc21ab4da94ed6cf4d45849
+file.0=/home/ankit/AndroidStudioProjects/Enigma/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0e7e4e535afd3cbb0442ef8a0995981855821f0/classes.dex
